@@ -3,7 +3,7 @@
 Pesquisa de Iniciação Científica
 Centro Universitário FEI
 
-Atuando no desenvolvimento de uma prótese mioelétrica assistiva baseada na [DexHand v1.0](https://www.dexhand.com), integrada com sensores mioelétricos para interpretar sinais musculares e reproduzir gestos da Língua Brasileira de Sinais (Libras).
+Atuando no desenvolvimento de uma prótese mioelétrica assistiva baseada na [DexHand v1.0](https://www.dexhand.org/), integrada com sensores mioelétricos para interpretar sinais musculares e reproduzir gestos da Língua Brasileira de Sinais (Libras).
 
 ![Protese](Explicativo_Mao.png)
 
